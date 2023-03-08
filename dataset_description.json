@@ -1,21 +1,21 @@
 {
-  "Name": "",
+  "Name": "Does the Brain Detect 3G Mobile Phone Radiation Peaks? An Explorative In-Depth Analysis of an Experimental Study",
   "BIDSVersion": "1.7.0",
   "DatasetType": "raw",
-  "License": "",
+  "License": "CC BY 4.0",
   "Authors": [
-    "",
-    "",
-    ""
+    "Suzanne Roggeveen",
+    "Jim van Os",
+    "Richel Lousberg"
   ],
-  "Acknowledgements": "",
+  "Acknowledgements": "Many thanks for the important technical support granted by Ron Hellenbrand, Ron Mengelers and Johan Gielissen.",
   "HowToAcknowledge": "",
   "Funding": [
     "",
     "",
     ""
   ],
-  "EthicsApprovals": [""],
+  "EthicsApprovals": ["Approval was obtained from the medical ethics committee of the Academic Hospital Maastricht, on June, 6th, 2013."],
   "ReferencesAndLinks": [
     "",
     "",
