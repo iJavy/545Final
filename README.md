@@ -2,7 +2,7 @@ This repository includes the following files:
 
 1. Dataset files:
 
-1.a. S1 DataFile.SAV: This is the raw data file. It includes EEG measures for thirty-one female participants before and after being exposed to 3G mobile phone radiation. Additionally, the data include EEG measures for exposure to two sham phone conditions. This file cannot be included due to GitHub file size restrictions but can be downloaded using this link: https://doi.org/10.1371/journal.pone.0125390.s001 
+1.a. S1 DataFile.SAV: This is the raw data file. It includes EEG measures for thirty-one female participants before and after being exposed to 3G mobile phone radiation. Additionally, the data include EEG measures for exposure to two sham phone conditions. This file cannot be directly included due to GitHub file size restrictions but can be downloaded using this link: https://doi.org/10.1371/journal.pone.0125390.s001 
 
 1.b. S2 Text.SPS: This file includes code which serves as an example of SPSS syntax for multilevel regression analysis.
 
