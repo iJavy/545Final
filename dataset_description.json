@@ -9,17 +9,16 @@
     "Richel Lousberg"
   ],
   "Acknowledgements": "Many thanks for the important technical support granted by Ron Hellenbrand, Ron Mengelers and Johan Gielissen.",
-  "HowToAcknowledge": "",
+  "HowToAcknowledge": "A doi for this dataset has not been generated. For the time being please cite the journal article this data set supports: Roggeveen, Suzanne; van Os, Jim; Lousberg, Richel (2016): Does the Brain Detect 3G Mobile Phone Radiation Peaks? An Explorative In-Depth Analysis of an Experimental Study. PLOS ONE. Dataset. https://doi.org/10.1371/journal.pone.0125390",
   "Funding": [
-    "",
-    "",
-    ""
+    "Funding information to be updated",
   ],
   "EthicsApprovals": ["Approval was obtained from the medical ethics committee of the Academic Hospital Maastricht, on June, 6th, 2013."],
   "ReferencesAndLinks": [
-    "",
-    "",
-    ""
+ "https://figshare.com/articles/dataset/_Does_the_Brain_Detect_3G_Mobile_Phone_Radiation_Peaks_An_Explorative_In_Depth_Analysis_of_an_Experimental_Study_/1410034?file=6752208",
+    "https://doi.org/10.1371/journal.pone.0125390.s001",
+    "https://doi.org/10.1371/journal.pone.0125390.s002",
+    "https://doi.org/10.1371/journal.pone.0125390.s003"
   ],
-  "DatasetDOI": "doi:"
+  "DatasetDOI": "doi:https://doi.org/10.1371/journal.pone.0125390.s001"
 }
