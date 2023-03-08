@@ -4,9 +4,9 @@ This repository includes the following files:
 
 1.a. S1 DataFile.SAV: This is the raw data file. It includes EEG measures for thirty-one female participants before and after being exposed to 3G mobile phone radiation. Additionally, the data include EEG measures for exposure to two sham phone conditions. This file cannot be included due to GitHub file size restrictions but can be downloaded using this link: https://doi.org/10.1371/journal.pone.0125390.s001 
 
-1.b. S2 Text.SPS: This file includes code with different preset variables which was seemingly used for the analysis of the raw data.
+1.b. S2 Text.SPS: This file includes code which serves as an example of SPSS syntax for multilevel regression analysis.
 
-1.c. S1 Text.DOCX: Although not explicitly stated by the creators, this file seems to contain the raw code for the data analysis without any of the different variables.
+1.c. S1 Text.DOCX: This file is the base code used for the analysis of the data for the production of the research.
 
 2. dataset_description.json: this is a structured metadata file. The file is structured according to the Brain Imaging Data Structure (BIDS) standard. This is in accordance to the metadata requirements established by OpenNeuro, the data repository selected for the purposes of this project.
 
